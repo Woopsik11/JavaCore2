@@ -5,7 +5,7 @@ public class Championship {
         Participant[] participants = {
                 new Cat("Tima", 3000, 300),
                 new Cat("Vasya", 5000, 220),
-                new Robot("R2D2", 99999, 1000),
+                new Robot("Terminator1", 99999, 1000),
                 new Robot("Ipo", 5000, 300),
                 new Human("Pasha", 7000, 150),
                 new Human("Andrey", 10000, 200)
